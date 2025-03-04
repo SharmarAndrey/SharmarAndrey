@@ -37,6 +37,16 @@
 
 ---
 
+### 🤝 Soft Skills:
+- 💡 **Problem-Solving Mindset** – Always looking for efficient solutions
+- 🤝 **Team Collaboration** – Experienced in Agile & remote teamwork
+- 🎯 **Adaptability** – Quickly learning new technologies & methodologies
+- 📢 **Effective Communication** – Explaining complex ideas in a simple way
+- 🔄 **Continuous Learning** – Passionate about improving and growing professionally
+
+---
+
+
 ### 📬 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrii-sharmar)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SharmarAndrey)
