@@ -14,8 +14,8 @@
 ### 🌟 Featured Projects:
 - 🔥 **[CodeQuestAPI](https://github.com/IronHack-2024/CodeQuestAPI)** – REST API for programming quizzes  
   **Tech stack:** Node.js, Express, MongoDB, JWT, Jest
-- 🎨 **[TriBook](https://github.com/username/TRIBOOK)** – Travel booking platform  
-  **Tech stack:** Vue.js, Tailwind CSS, Firebase
+- 🎨 **[TriBook](https://github.com/Sharmarandrey/TRIBOOK)** – Travel booking platform  
+  **Tech stack:** Node Js, Express,  Tailwind CSS,MongoDB
 - 🏕 **[NomandCraft](https://github.com/NomandCraft/nomandcraft-project)** – Camper customization project  
   **Tech stack:** JavaScript, Node.js, MongoDB
 
