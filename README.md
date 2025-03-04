@@ -1,6 +1,3 @@
-<!--
-**SharmarAndrey/SharmarAndrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 👋 Hi! I'm Andrii! 🚀
 ### 🌍 Full-Stack Developer | Crafting web applications, APIs, and scalable infrastructure
 
