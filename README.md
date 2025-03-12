@@ -4,7 +4,7 @@
 ---
 
 ### 🔧 Skills & Technologies:
-- 🛠 **Backend:** Node.js, Express, MongoDB, REST API, WebSockets
+- 🛠 **Backend:** Node.js, Express, MongoDB, REST API
 - 🎨 **Frontend:** Vue.js, Tailwind CSS, JavaScript (ES6+), Vite
 - ⚙ **DevOps:** Docker, CI/CD, GitHub Actions, Vercel, Firebase
 - 📊 **Tools:** Git, Jest, Postman, Redis, GraphQL
