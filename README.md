@@ -17,7 +17,7 @@
 - 🎨 **[TriBook](https://github.com/Sharmarandrey/TRIBOOK)** – Travel booking platform  
   **Tech stack:** Node Js, Express,  Tailwind CSS,MongoDB
 - 🏕 **[NomandCraft](https://github.com/NomandCraft/nomandcraft-project)** – Camper customization project  
-  **Tech stack:** JavaScript, Node.js, MongoDB
+  **Tech stack:** JavaScript, Node.js, MongoDB( in progress!)
 
 📌 **More projects:** [GitHub Repositories](https://github.com/SharmarAndrey?tab=repositories)
 
