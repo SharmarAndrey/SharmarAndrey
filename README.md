@@ -33,7 +33,6 @@
 - 🏆 **YOLO** – Used `git push --force`
 - 🦈 **Pull Shark** – Successfully merged a pull request
 - ⏳ **Upcoming:** Aiming for **Quickdraw**, **Pair Extraordinaire**
-- ⭐ **Goal:** Reach **Starstruck** (16+ stars on a repository)
 
 ---
 
