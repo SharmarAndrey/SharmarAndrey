@@ -52,3 +52,5 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SharmarAndrey)
 
 💡 **Looking for collaborations, open-source contributions, and challenging projects!** 🚀
+
+[![Hits](https://u8views.com/api/v1/github/profiles/130487443/views/day-week-month-total-count.svg)](https://u8views.com/github/SharmarAndrey)
